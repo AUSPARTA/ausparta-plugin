@@ -5,6 +5,7 @@
   "author": {
     "name": "Ausparta"
   },
+  "logo": "assets/logo.png",
   "homepage": "https://app.ausparta.com",
   "repository": "https://github.com/AUSPARTA/ausparta-plugin",
   "keywords": ["ausparta", "training", "fitness", "mcp"]
