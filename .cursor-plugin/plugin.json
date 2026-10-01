@@ -1,0 +1,11 @@
+{
+  "name": "ausparta",
+  "description": "Read and update your Ausparta training profile, program, and workouts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ausparta"
+  },
+  "homepage": "https://app.ausparta.com",
+  "repository": "https://github.com/AUSPARTA/ausparta-plugin",
+  "keywords": ["ausparta", "training", "fitness", "mcp"]
+}

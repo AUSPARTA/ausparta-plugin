@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "ausparta": {
+      "url": "https://app.ausparta.com/api/mcp"
+    }
+  }
+}
